@@ -6,4 +6,6 @@ venv/
 .venv/
 env/
 .claude/
+.DS_Store
+.pyversion
 .python-version
